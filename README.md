@@ -1,0 +1,1 @@
+Для сборки exe файла используйте pyinstaller или autupy-to-exe
