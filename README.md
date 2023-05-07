@@ -1,1 +1,1 @@
-Для сборки exe файла используйте pyinstaller или autupy-to-exe
+Для сборки exe файла LaboratoryTerminalSpring.py используйте pyinstaller или autupy-to-exe
